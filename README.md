@@ -26,8 +26,9 @@ From the information in the data set, we can see that at least 45% of the dams a
 
 ### Exploring the Number of Dams by Country
 
-China has by far the most dams, with more than double the USA
 ![Countries Top 10](DamImages/NumberPerCountry.png?raw=true "Dams by Country Top 20")
+
+China has by far the most dams, with more than double the USA. With a large amount of geographical information for India I thought it would be interesting to take a closer look at the dams there.
 
 ## A Closer Look
 ### India
@@ -35,6 +36,7 @@ China has by far the most dams, with more than double the USA
 
 ### The River Olt, Romania 
 
+Romania generates just under 30% of it's power from Hyrdoelectricity. The river Olt has 24 dams providing power, below these are mapped to see how they are spread along the river.
 ![River Olt](DamImages/RiverOrt.png?raw=true "River Olt")
 
 
