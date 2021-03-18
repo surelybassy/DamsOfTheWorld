@@ -1,6 +1,8 @@
 # DamsOfTheWorld
 Cleaning, Analysis and Visualisation of Data about Dams
 
+![All Dams](DamImages/AllDams.png?raw=true "All Dams")
+
 # The Data
 
 The data set came from the World Bank Data Catalog and contains information about 6155 dams around the world.
