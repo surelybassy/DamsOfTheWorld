@@ -37,6 +37,7 @@ China has by far the most dams, with more than double the USA. With a large amou
 ### The River Olt, Romania 
 
 Romania generates just under 30% of it's power from Hyrdoelectricity. The river Olt has 24 dams providing power, below these are mapped to see how they are spread along the river.
+
 ![River Olt](DamImages/RiverOrt.png?raw=true "River Olt")
 
 
