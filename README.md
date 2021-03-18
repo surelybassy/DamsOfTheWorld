@@ -7,6 +7,7 @@ Cleaning, Analysis and Visualisation of Data about Dams
 
 The data set came from the World Bank Data Catalog and contains information about 6155 dams around the world.
 https://datacatalog.worldbank.org/dataset/global-dams-database
+
 Additional information gathered from the Internation Commision of Large Dams.
 https://www.icold-cigb.org
 
@@ -25,7 +26,7 @@ From the information in the data set, we can see that at least 45% of the dams a
 
 ### Exploring the Number of Dams by Country
 
-
+China has by far the most dams, with more than double the USA
 ![Countries Top 10](DamImages/NumberPerCountry.png?raw=true "Dams by Country Top 20")
 
 ## A Closer Look
