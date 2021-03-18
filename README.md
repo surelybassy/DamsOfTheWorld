@@ -6,8 +6,9 @@ Cleaning, Analysis and Visualisation of Data about Dams
 # The Data
 
 The data set came from the World Bank Data Catalog and contains information about 6155 dams around the world.
-
 https://datacatalog.worldbank.org/dataset/global-dams-database
+Additional information gathered from the Internation Commision of Large Dams.
+https://www.icold-cigb.org
 
 ## Cleaning
 
@@ -26,4 +27,13 @@ From the information in the data set, we can see that at least 45% of the dams a
 
 
 ![Countries Top 10](DamImages/NumberPerCountry.png?raw=true "Dams by Country Top 20")
+
+## A Closer Look
+### India
+![India](DamImages/IndiaAll.png?raw=true "India")
+
+### The River Olt, Romania 
+
+![River Olt](DamImages/RiverOrt.png?raw=true "River Olt")
+
 
