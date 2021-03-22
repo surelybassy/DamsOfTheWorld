@@ -24,6 +24,12 @@ Looking at the data in the purpose column, I could see several spelling errors a
 From the information in the data set, we can see that at least 45% of the dams are used for irrigation purposes, 34% provide some sort of hydroelectricity and 5% are used to provide water.
 ![Purposes](DamImages/Purposes.png?raw=true "Purposes")
 
+### Exploring the Annual Power Production
+
+There wasn't a hude amount of information on the power production for all the dams, but for the information I had I created a boxplot to see the spread of the power produced in different countries.
+
+![Annual Power Production](DamImages/PowerProductionBoxplot.png?raw=true "Annual Power Production")
+
 ### Exploring the Number of Dams by Country
 
 ![Countries Top 10](DamImages/NumberPerCountry.png?raw=true "Dams by Country Top 20")
