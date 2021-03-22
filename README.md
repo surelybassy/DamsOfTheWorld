@@ -49,4 +49,8 @@ Romania generates just under 30% of it's power from Hyrdoelectricity. The river 
 
 ![River Olt](DamImages/RiverOrt.png?raw=true "River Olt")
 
+# Further Explorations
 
+I am currently looking for data sets about flooding events around the world, with the intention of exploring the impact dams are having on flooding in different regions.
+
+I will continue to add more to the repository as I go.
