@@ -1,6 +1,8 @@
 # DamsOfTheWorld
 Cleaning, Analysis and Visualisation of Data about Dams
 
+There are approximately 38,000 dams in the world, with 23,841 of them being in China.
+
 ![All Dams](DamImages/AllDams.png?raw=true "All Dams")
 
 # The Data
@@ -21,7 +23,8 @@ Looking at the data in the purpose column, I could see several spelling errors a
 
 ### Purposes
 
-From the information in the data set, we can see that at least 45% of the dams are used for irrigation purposes, 34% provide some sort of hydroelectricity and 5% are used to provide water.
+From the information in the data set, we can see that at least 45% of the dams are used for irrigation purposes, 34% provide some sort of hydroelectricity and 5% are used to provide water. Many of the dams are used for multiple purposes.
+
 ![Purposes](DamImages/Purposes.png?raw=true "Purposes")
 
 ### Exploring the Annual Power Production
